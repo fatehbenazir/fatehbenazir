@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! 
+
+### About Me
+AI Product Manager at Google Cloud. 
+
+### Blogs 
+1. [The KPIs that actually matter for production AI agents] (https://cloud.google.com/transform/the-kpis-that-actually-matter-for-production-ai-agents?e=48754805)
+2. [Palo Alto Networks’ journey to productionizing gen AI] (https://cloud.google.com/blog/topics/partners/how-palo-alto-networks-builds-gen-ai-solutions?e=48754805)
+
+
+
 
 <!--
 **fatehbenazir/fatehbenazir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
